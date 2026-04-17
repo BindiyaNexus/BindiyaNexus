@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Meta%20Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
@@ -24,24 +24,20 @@
 
 ---
 
-### 📊 Coding Activity (Live Snake Animation)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BindiyaNexus/BindiyaNexus/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
+### 📊 Coding Activity & Streak
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BindiyaNexus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=BindiyaNexus&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BindiyaNexus&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📬 Connect With Me (Direct Links)
+### 📬 Connect With Me 
 
 <div align="center">
-  <a href="https://linkedin.com/in/bindiya-arif">
+  <a href="https://www.linkedin.com/in/bindiya-arif-a71918402?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:bindiya.techcreative@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
