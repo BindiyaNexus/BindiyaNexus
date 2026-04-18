@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:bindiya.techcreative@gmail.com">
+                            <a href="javascript:void(0)" onclick="openEmailPopup()" class="contact-link-neon contact-text-large">bindiya.techcreative@gmail.com</a>
     <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
