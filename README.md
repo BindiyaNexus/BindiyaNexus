@@ -42,22 +42,22 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=0">
-      <img src="https://img.youtube.com/vi/0/0.jpg" alt="Orena Solutions Demo" width="400" style="border-radius:15px; border: 2px solid #00E5FF;">
+    <a href="https://www.youtube.com/watch?v=Xh06lQz9-9E" target="_blank">
+      <img src="https://img.youtube.com/vi/Xh06lQz9-9E/maxresdefault.jpg" alt="Orena Solutions Demo" width="500" style="border-radius:15px; border: 2px solid #00E5FF;">
       <br>
-      <b>▶️ Click to Watch Project Demo</b>
+      <b>▶️ Click to Watch Project Demo (YouTube)</b>
     </a>
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/Status-Project_Showcase-success?style=flat-square" />
-    <img src="https://img.shields.io/badge/Architecture-MVC_Code--First-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/UI-Glassmorphism-ff4d4d?style=flat-square" />
+    <img src="https://img.shields.io/badge/Status-Project_Showcase-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Architecture-MVC_Code--First-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/UI-Glassmorphism-ff4d4d?style=for-the-badge" />
   </p>
 
-  <blockquote>
-    Built a comprehensive Enterprise Solution platform using <b>ASP.NET Core</b>. Features include responsive glass-panel service cards, automated marketing funnels, and robust backend integration.
-  </blockquote>
+  <p align="center">
+    <i>Built a comprehensive Enterprise Solution platform using <b>ASP.NET Core</b>. <br>Features include responsive glass-panel service cards, automated marketing funnels, and robust backend integration.</i>
+  </p>
 </div>
 
 ---
