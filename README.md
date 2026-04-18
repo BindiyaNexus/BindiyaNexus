@@ -42,7 +42,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://www.youtube.com/watch?v=Fj-yR7V6mX0" target="_blank">
+    <a href="[https://www.youtube.com/watch?v=Fj-yR7V6mX0](https://youtu.be/fFXeQZdjZQw?si=xhYmKnPp1gQqXPvK)" target="_blank">
       <img src="https://img.youtube.com/vi/Fj-yR7V6mX0/maxresdefault.jpg" alt="Orena Solutions Demo" width="500" style="border-radius:15px; border: 2px solid #00E5FF;">
       <br>
       <b>▶️ Click to Watch Project Demo (YouTube)</b>
