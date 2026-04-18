@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glass&color=00e5ff&height=250&section=header&text=BINDYIA%20ARIF&fontSize=90&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Creative%20Designer%20|%20Digital%20Marketer&descSize=20&descAlignY=60" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=100&lines=BINDYIA+ARIF;FULL-STACK+DEVELOPER;CREATIVE+DESIGNER" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Bindiya+Arif+💻;ASP.NET+Core+%2B+Angular+Expert;Expert+Digital+Marketing+Strategist;Creative+Graphic+Solutions;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps+💻;ASP.NET+Core+%2B+Angular+Expert;Expert+Digital+Marketing;Creative+Graphic+Solutions" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🌌 Technology & Expertise (Neon Glass Badges)
+### 🌌 Technology & Expertise
 
 <div align="center">
   <table>
@@ -26,7 +26,7 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><b>🎨 Creative Design & Ads</b><br>
+      <td colspan="2" align="center"><b>🎨 Creative Design & Ads Mastery</b><br>
         <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
         <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
         <img src="https://img.shields.io/badge/Meta_Ads-0668E1?style=for-the-badge&logo=meta&logoColor=white" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 Performance Metrics
+### 📊 Coding Activity & Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BindiyaNexus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 🤝 Let's Connect (Direct Links)
+### 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bindiya-arif-a71918402">
@@ -62,9 +62,10 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BindiyaNexus&color=00e5ff&style=flat-square&label=VISITOR+COUNT" />
+  <img src="https://komarev.com/ghpvc/?username=BindiyaNexus&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
+<br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00e5ff&height=20&section=footer" />
+  <img src="https://img.shields.io/badge/--Neon_Portfolio_2024--00e5ff?style=flat-square" />
 </div>
