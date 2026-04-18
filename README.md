@@ -58,7 +58,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Email-bindiya.techcreative@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-BINDIYA.techcreative@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
 <br>
