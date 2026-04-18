@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=glass&color=00e5ff&height=200&section=header&text=BINDYIA%20ARIF&fontSize=80&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20|%20Creative%20Designer&descSize=20&descAlignY=60" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=100&lines=BINDYIA+ARIF;FULL-STACK+DEVELOPER;CREATIVE+DESIGNER" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Bindiya+Arif+💻;ASP.NET+Core+%2B+Angular+Expert;Strategic+Digital+Marketing;Creative+Graphic+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00D2FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Bindiya+Arif+💻;ASP.NET+Core+%2B+Angular+Expert;Expert+Digital+Marketing;Creative+Graphic+Solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-### 🤝 Connect With Me (Direct Contacts)
+### 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bindiya-arif-a71918402" target="_blank">
@@ -66,5 +66,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BindiyaNexus&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
-
-
