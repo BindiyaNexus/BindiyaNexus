@@ -67,6 +67,4 @@
   <img src="https://komarev.com/ghpvc/?username=BindiyaNexus&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00e5ff&height=20&section=footer" />
-</div>
+
