@@ -58,7 +58,12 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Email-BINDIYA.techcreative@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <p>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="20" height="20" />
+    <span style="font-family: 'Fira Code', monospace; color: #D14836; font-weight: bold; font-size: 18px;">
+      bindiya.techcreative@gmail.com
+    </span>
+  </p>
 </div>
 
 <br>
