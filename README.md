@@ -38,14 +38,36 @@
 
 ---
 
+### 🚀 Featured Project: Orena Solutions
+
+<div align="center">
+  <p align="center">
+    <a href="https://www.youtube.com/watch?v=0">
+      <img src="https://img.youtube.com/vi/0/0.jpg" alt="Orena Solutions Demo" width="400" style="border-radius:15px; border: 2px solid #00E5FF;">
+      <br>
+      <b>▶️ Click to Watch Project Demo</b>
+    </a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Status-Project_Showcase-success?style=flat-square" />
+    <img src="https://img.shields.io/badge/Architecture-MVC_Code--First-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/UI-Glassmorphism-ff4d4d?style=flat-square" />
+  </p>
+
+  <blockquote>
+    Built a comprehensive Enterprise Solution platform using <b>ASP.NET Core</b>. Features include responsive glass-panel service cards, automated marketing funnels, and robust backend integration.
+  </blockquote>
+</div>
+
+---
+
 ### 📊 Coding Activity & Performance
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BindiyaNexus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BindiyaNexus&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
-
----
 
 ---
 
@@ -60,4 +82,3 @@
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=BindiyaNexus&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
-
