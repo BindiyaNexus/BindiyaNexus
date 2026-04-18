@@ -47,24 +47,17 @@
 
 ---
 
+---
+
 ### 🤝 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bindiya-arif-a71918402" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Gmail-bindiya.techcreative@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=BindiyaNexus&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" />
 </div>
-
-<br>
-
-<div align="center">
-  <p>
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" width="20" height="20" />
-    <span style="font-family: 'Fira Code', monospace; color: #D14836; font-weight: bold; font-size: 18px;">
-      bindiya.techcreative@gmail.com
-    </span>
-  </p>
-</div>
-
-<br>
 
