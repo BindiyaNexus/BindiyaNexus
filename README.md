@@ -64,5 +64,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BindiyaNexus&color=00e5ff&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/static/v1?label=&message=email:%20bindiya.techcreative@gmail.com&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
