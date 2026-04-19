@@ -41,14 +41,15 @@
 ### 🚀 Featured Project: Orena Solutions
 
 <div align="center">
-  <h4>📺 Watch Project Demo on YouTube:</h4>
-  <p align="center">
-    <b>Direct Link:</b> <a href="https://www.youtube.com/watch?v=8mSg7oU0N9U" target="_blank">https://www.youtube.com/watch?v=8mSg7oU0N9U</a>
-  </p>
-  
-  <br>
-  
+  <h3>🎥 Project Demo (Click to Watch)</h3>
+  <a href="https://www.youtube.com/watch?v=8mSg7oU0N9U" target="_blank">
+    <img src="https://img.youtube.com/vi/8mSg7oU0N9U/maxresdefault.jpg" width="600" style="border-radius:15px; border: 3px solid #00E5FF;" alt="Watch Video">
+    <br>
+    <img src="https://img.shields.io/badge/%E2%96%B6_PLAY_VIDEO-red?style=for-the-badge&logo=youtube" />
+  </a>
+
   <p>
+    <br>
     <img src="https://img.shields.io/badge/Status-Project_Showcase-success?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Architecture-MVC_Code--First-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/UI-Glassmorphism-ff4d4d?style=for-the-badge" />
