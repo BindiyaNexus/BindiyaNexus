@@ -41,10 +41,10 @@
 ### 🚀 Featured Project: Orena Solutions
 
 <div align="center">
-  <h4>📺 Project Demo Link:</h4>
-  <a href="[https://youtu.be/8mSg7oU0N9U]([https://youtu.be/fFXeQZdjZQw?si=xhYmKnPp1gQqXPvK](https://youtu.be/fFXeQZdjZQw?si=xhYmKnPp1gQqXPvK))" target="_blank"></a>
+  <h4>📺 Watch Project Demo on YouTube:</h4>
+  <p><b>Link:</b> <a href="https://youtu.be/8mSg7oU0N9U" target="_blank">https://youtu.be/8mSg7oU0N9U</a></p>
   
-  <br><br>
+  <br>
   
   <p>
     <img src="https://img.shields.io/badge/Status-Project_Showcase-success?style=for-the-badge" />
