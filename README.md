@@ -42,7 +42,9 @@
 
 <div align="center">
   <h4>📺 Watch Project Demo on YouTube:</h4>
-  <p><b>Link:</b> <a href="https://youtu.be/8mSg7oU0N9U" target="_blank">https://youtu.be/8mSg7oU0N9U</a></p>
+  <p align="center">
+    <b>Direct Link:</b> <a href="https://www.youtube.com/watch?v=8mSg7oU0N9U" target="_blank">https://www.youtube.com/watch?v=8mSg7oU0N9U</a>
+  </p>
   
   <br>
   
