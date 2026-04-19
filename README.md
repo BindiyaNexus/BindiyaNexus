@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=100&lines=BINDYIA+ARIF;FULL-STACK+DEVELOPER;CREATIVE+DESIGNER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=0056b3&center=true&vCenter=true&width=800&height=100&lines=BINDYIA+ARIF;FULL-STACK+DEVELOPER;CREATIVE+DESIGNER" />
 </div>
 
 <div align="center">
@@ -41,22 +41,17 @@
 ### 🚀 Featured Project: Orena Solutions
 
 <div align="center">
-  <h3>🎥 Project Demo (Click to Watch)</h3>
-  <a href="https://www.youtube.com/watch?v=8mSg7oU0N9U" target="_blank">
-    <img src="https://img.youtube.com/vi/8mSg7oU0N9U/maxresdefault.jpg" width="600" style="border-radius:15px; border: 3px solid #00E5FF;" alt="Watch Video">
-    <br>
-    <img src="https://img.shields.io/badge/%E2%96%B6_PLAY_VIDEO-red?style=for-the-badge&logo=youtube" />
-  </a>
-
-  <p>
-    <br>
-    <img src="https://img.shields.io/badge/Status-Project_Showcase-success?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Architecture-MVC_Code--First-blue?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/UI-Glassmorphism-ff4d4d?style=for-the-badge" />
-  </p>
+  <h3>🎥 Project Walkthrough (Direct Demo)</h3>
+  
+  <video src="https://github.com/user-attachments/assets/21dc4129-7a84-40a3-9fd4-f757a2d83afc" width="100%" controls="controls" style="max-width: 700px; border-radius: 15px; border: 2px solid #00E5FF;">
+    Your browser does not support the video tag.
+  </video>
 
   <p align="center">
-    <i>Built a comprehensive Enterprise Solution platform using <b>ASP.NET Core</b>. <br>Features include responsive glass-panel service cards and robust backend integration.</i>
+    <br>
+    <img src="https://img.shields.io/badge/Status-Live_Demo-success?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Tech-ASP.NET_Core-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/UI-Glassmorphism-ff4d4d?style=for-the-badge" />
   </p>
 </div>
 
