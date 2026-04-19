@@ -41,14 +41,11 @@
 ### 🚀 Featured Project: Orena Solutions
 
 <div align="center">
-  <p align="center">
-    <a href="https://img.youtube.com/vi/0/0.jpg2" target="_blank">
-      <img src="https://img.youtube.com/vi/0/0.jpg3" alt="Orena Solutions Demo" width="500" style="border-radius:15px; border: 2px solid #00E5FF;">
-      <br>
-      <b>▶️ Click to Watch Project Demo (YouTube)</b>
-    </a>
-  </p>
-
+  <h4>📺 Project Demo Link:</h4>
+  <a href="https://youtu.be/8mSg7oU0N9U" target="_blank">https://youtu.be/8mSg7oU0N9U</a>
+  
+  <br><br>
+  
   <p>
     <img src="https://img.shields.io/badge/Status-Project_Showcase-success?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Architecture-MVC_Code--First-blue?style=for-the-badge" />
@@ -56,7 +53,7 @@
   </p>
 
   <p align="center">
-    <i>Built a comprehensive Enterprise Solution platform using <b>ASP.NET Core</b>. <br>Features include responsive glass-panel service cards, automated marketing funnels, and robust backend integration.</i>
+    <i>Built a comprehensive Enterprise Solution platform using <b>ASP.NET Core</b>. <br>Features include responsive glass-panel service cards and robust backend integration.</i>
   </p>
 </div>
 
